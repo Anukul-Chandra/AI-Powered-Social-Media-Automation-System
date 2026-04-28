@@ -585,8 +585,3 @@ Drop new images into the `Product Image` Google Drive folder. The rotation logic
 
 ---
 
-## 📄 License
-
-This project is proprietary and intended for internal deployment. Not for public redistribution.
-
----low saved you time, consider starring the repo!
