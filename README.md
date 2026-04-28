@@ -12,25 +12,8 @@
 ![Facebook](https://img.shields.io/badge/Facebook-Publishing-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-Publishing-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-## 🚨 Problem Statement
 
-TheBitz420 needed to maintain a **consistent, high-quality daily social media presence** across Facebook and Instagram — but producing premium content manually for every product every day was unsustainable:
-
-| Pain Point | Impact |
-|---|---|
-| ❌ 100% manual content creation | Hours spent per post, per product |
-| ❌ No AI image generation | Stock or raw product photos only |
-| ❌ No video content pipeline | Reels/video posts missed entirely |
-| ❌ Zero cross-platform coordination | FB and IG posted inconsistently |
-| ❌ No caption intelligence | Generic captions, poor engagement |
-| ❌ No tracking or audit trail | No visibility into what was posted when |
-| ❌ No success/failure alerting | Silent failures with no notification |
-
-**The result:** an inconsistent brand presence, missed daily posting windows, and no scalable system for growing a premium content library.
-
----
-
-## ✅ Solution Overview
+## ✅ Project Overview :
 
 A fully autonomous **n8n automation pipeline** that wakes up every morning at 6AM, picks the next product from Google Drive, generates a studio-quality AI image using Gemini 2.5 Flash, produces a cinematic short video using Veo 3.1, writes platform-specific captions using GPT-4o, and cross-posts to both Facebook and Instagram — then logs everything and sends a status email. **Zero human input required after initial setup.**
 
